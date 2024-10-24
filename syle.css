@@ -1,0 +1,7 @@
+.chamada{
+    background: rgb(147), 0, rgb(131, 3, 9);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
