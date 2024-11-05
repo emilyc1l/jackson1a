@@ -1,3 +1,14 @@
+body{
+    color: red;
+    background: black;
+    font-family: "Tiny5", sans-serif;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+
+
+
 .chamada{
     background: rgb(147), 0, rgb(131, 3, 9);
     margin-top: 80px;
